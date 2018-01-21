@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(174, 239, 248);
+    color: antiquewhite;
+    font-size: 20px;
+}
+#testlong {
+    background-image: url(../images/small.png);
+    width: 500px;
+    height: 500px;
+}

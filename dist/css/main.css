@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(174, 239, 248);
+    color: antiquewhite;
+    font-size: 20px;
+}
+#testlong {
+    background-image: url(http://localhost/images/c2a605fbc0e687b2e1b4b90a7c445cdd.png);
+    width: 500px;
+    height: 500px;
+}#less_demo {
+  width: 100px;
+  height: 100px;
+  background-color: #8f4444;
+}
